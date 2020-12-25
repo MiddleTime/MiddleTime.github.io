@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
 .container {
     position: relative;
     width: 1140px;
@@ -42,9 +46,9 @@ h2.title {
 
 .title {
     color: #f9bf3b;
-    font-family: "Roboto - Black";
+    /* font-family: "Roboto - Black"; */
     font-size: 41px;
-    font-weight: 400;
+    font-weight: 900;
     line-height: 24px;
     text-transform: uppercase;
     text-align: center;       
@@ -52,9 +56,9 @@ h2.title {
 
 .simple .title_big {
     color: #ffffff;
-    font-family: "Roboto - Black";
+    /* font-family: "Roboto - Black"; */
     font-size: 80px;
-    font-weight: 400;
+    font-weight: 900;
     /* line-height: 24px; */
     text-transform: uppercase;
     text-align: center; 
@@ -65,7 +69,7 @@ h2.title {
     padding: 0 13px;
     margin-top: 23px;
     color: #ffffff;
-    font-family: "Roboto Light";
+    /* font-family: "Roboto Light"; */
     font-size: 21px;
     font-weight: 300;
     line-height: 28px;
@@ -74,7 +78,7 @@ h2.title {
 
 .promo .promo_text span{
     color: #f9bf3b;
-    font-family: "Roboto - Bold";
+    /* font-family: "Roboto - Bold"; */
     font-weight: 700;
 }
 
@@ -89,7 +93,7 @@ h2.title {
     border: 4px solid rgba(0, 0, 0, 0.23);
     background-image: linear-gradient(to top, #2798b9 0%, #3ab6da 100%);
     color: #ffffff;
-    font-family: "Roboto Condensed";
+    /* font-family: "Roboto Condensed"; */
     font-size: 21px;
     font-weight: 400;
     line-height: 24px;
@@ -105,7 +109,7 @@ h2.title {
 
 .more .more_text {
     color: #ffffff;
-    font-family: "Roboto - Thin";
+    /* font-family: "Roboto - Thin"; */
     font-size: 15px;
     font-weight: 400;
     text-transform: uppercase;
@@ -126,7 +130,7 @@ h2.title {
 
 .waiting .waiting_header, .finish .finish_header, .waiting .waiting_header{
     color: #252525;
-    font-family: Roboto;
+    /* font-family: Roboto; */
     font-size: 30px;
     font-weight: 400;
     text-transform: uppercase;
@@ -152,7 +156,7 @@ h2.title {
 .waiting .waiting_subheader {
     margin-top: 17px;
     color: #4a4a4a;
-    font-family: Roboto;
+    /* font-family: Roboto; */
     font-size: 23px;
     font-weight: 400;
     text-align: center;
@@ -176,7 +180,7 @@ h2.title {
 .waiting .waiting_wrapper .waiting_item .waiting_descr {
     margin-top: 33px;
     color: #4a4a4a;
-    font-family:  Roboto;
+    /* font-family:  Roboto; */
     font-size:  15px;
     font-weight: 300;
     line-height: 21px;
@@ -190,7 +194,7 @@ h2.title {
 .optimization .optimization_header {
     margin-left: 391px;
     color: #299cbd;
-    font-family: "Roboto - Black";
+    /* font-family: "Roboto - Black"; */
     font-size: 29px;
     font-weight: 400;
     text-transform: uppercase;
@@ -200,13 +204,13 @@ h2.title {
     margin-top: 25px;
     margin-left: 391px;
     color: #4a4a4a;
-    font-family: "Roboto Light";
+    /* font-family: "Roboto Light"; */
     font-size: 17px;
     font-weight: 300;
     }
 
 .optimization .optimization_text span {
-    font-family: "Roboto - Bold";
+    /* font-family: "Roboto - Bold"; */
     font-weight: 700;
 }
 
@@ -248,7 +252,7 @@ h2.title {
     margin-top: 25px;
     text-align: center;
     color: #efefef;
-    font-family: Roboto;
+    /* font-family: Roboto; */
     font-size: 17px;
     font-weight: 300;
     line-height: 20px;
@@ -270,7 +274,7 @@ h2.title {
 .gift .gift_text {
     margin-top: 25px;
     color: #4a4a4a;
-    font-family: "Roboto Light";
+    /* font-family: "Roboto Light"; */
     font-size: 17px;
     font-weight: 300;
     text-align: center;
@@ -300,7 +304,7 @@ h2.title {
 
 .webinar .webinar_data {
     margin-top: 15px;
-    font-family: Roboto;
+    /* font-family: Roboto; */
     font-style: normal;
     font-weight: 900;
     font-size: 36px;
@@ -312,7 +316,7 @@ h2.title {
 
 .webinar .webinar_text {
     margin-top: 15px;
-    font-family: Roboto;
+    /* font-family: Roboto; */
     font-style: normal;
     font-weight: normal;
     font-size: 23px;
@@ -333,7 +337,7 @@ footer .footer_wrap {
 
 footer .footer_link, footer .footer_text, footer .footer_link_divider {
     margin-top: 70px;
-    font-family: Roboto;
+    /* font-family: Roboto; */
     font-style: normal;
     font-weight: 300;
     font-size: 15px;
